@@ -1,0 +1,1 @@
+export 'view/expense_manager_page.dart';

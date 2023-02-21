@@ -1,0 +1,1 @@
+export 'view/purchase_page.dart';
